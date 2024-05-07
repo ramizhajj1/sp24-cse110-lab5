@@ -1,6 +1,8 @@
 # Lab 5 - Starter    
 
-Link to pages:    
+Link to pages:    https://ramizhajj1.github.io/sp24-cse110-lab5/  
+https://ramizhajj1.github.io/sp24-cse110-lab5/expose.html  
+https://ramizhajj1.github.io/sp24-cse110-lab5/explore.html
 
 Explore part 3:  
 
