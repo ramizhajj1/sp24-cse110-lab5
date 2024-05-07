@@ -1,6 +1,9 @@
 # Lab 5 - Starter    
 
-Link to pages:  
+Link to pages:     
+
+Explore part 3:  
+
 
 
 1) Yes, unit testing is highly recommended for this feature of a messaging application, because it allows you to test each component of the feature in isolation. Unit tests are designed to validate individual units of code to ensure they perform as expected under various conditions. In the context of a messaging feature, this could involve testing the functionality for creating, sending, and receiving messages independently. For example, you could test whether a message object is created correctly with all necessary attributes like sender, recipient, timestamp, and content. Additionally, you would verify that the send function correctly handles the message data, ensures it is routed to the intended recipient, and interacts appropriately with the database or server. Similarly, the process of receiving messages can be tested to confirm that messages are correctly retrieved and displayed to the recipient. By isolating these components in unit tests, developers can quickly identify and fix bugs in the messaging logic, enhancing the reliability and robustness of the application. Finally, unit tests can be automated and run frequently, providing continuous feedback during development and maintenance phases, ensuring that new changes do not break existing functionality.  
